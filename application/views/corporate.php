@@ -122,16 +122,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-1.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-1.jpg');?>" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://pantoneinterior.com/" target="_blank" class="link-details" title="More Details">
+                <img src="<?=base_url('assets/image/smilehome.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/smilehome.png');?>" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://smilehome1991.com/home/?lang=th/" target="_blank" class="link-details" title="More Details">
                   <i class="fal fa-link"></i>
                 </a>
               </figure>
 
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 1</a></h4> -->
-                <h4><a href="https://pantoneinterior.com/" target="_blank">Layout 1</a></h4>
+                <h4><a href="https://smilehome1991.com/home/?lang=th/" target="_blank">Layout 1</a></h4>
                 <p>WEB</p>
               </div>
             </div>
@@ -140,14 +140,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-2.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-2.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://pawaninter.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/teddyautosale.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/teddyautosale.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://teddyautosale.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 2</a></h4> -->
-                <h4><a href="https://pawaninter.com/">Layout 2</a></h4>
+                <h4><a href="https://teddyautosale.com/">Layout 2</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -156,13 +156,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-3.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-3.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://gdesigncurtain.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/32interior.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/32interior.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://32interiordesign.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://gdesigncurtain.com/">Layout 3</a></h4>
+                <h4><a href="https://32interiordesign.com/">Layout 3</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -171,13 +171,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-4.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-4.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://saithong99.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/generalstest.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/generalstest.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://generalstest.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://saithong99.com/" target="_blank">Layout 4</a></h4>
+                <h4><a href="https://generalstest.com/" target="_blank">Layout 4</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -186,13 +186,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-5.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-6.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://ppccnc.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/myhome789.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/myhome789.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://myhome789.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://ppccnc.com/" target="_blank">Layout 5</a></h4>
+                <h4><a href="https://myhome789.com/" target="_blank">Layout 5</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -201,13 +201,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-6.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-6.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://refinancejumnumcar.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/mookwatch.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/mookwatch.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://mookwatch.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://refinancejumnumcar.com/" target="_blank">Layout 6</a></h4>
+                <h4><a href="https://mookwatch.com/" target="_blank">Layout 6</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -216,13 +216,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-7.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-7.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://tumpakpert.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/pantoneinterior.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/pantoneinterior.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://pantoneinterior.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://tumpakpert.com/" target="_blank">Layout 7</a></h4>
+                <h4><a href="https://pantoneinterior.com/" target="_blank">Layout 7</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -231,13 +231,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/template1/img/portfolio/portfolio-8.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/template1/img/portfolio/portfolio-8.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://constructionplus99.com/" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/paullyfurniture.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/paullyfurniture.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://paullyfurniture.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info"> 
-                <h4><a href="https://constructionplus99.com/" target="_blank">Layout 8</a></h4>
+                <h4><a href="https://paullyfurniture.com/" target="_blank">Layout 8</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -246,13 +246,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/template1/img/portfolio/portfolio-9.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/template1/img/portfolio/portfolio-9.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://202design-studio.com/" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/ptlighting.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/ptlighting.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://ptlighting.in.th/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://202design-studio.com/">Layout9</a></h4>
+                <h4><a href="https://ptlighting.in.th/" target="_blank">Layout9</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -261,13 +261,58 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/template1/img/portfolio/portfolio-10.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/template1/img/portfolio/portfolio-10.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://reeya-s.com/" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/rushplayofficial.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/rushplayofficial.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://rushplayofficial.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://reeya-s.com/">Layout 10</a></h4>
+                <h4><a href="https://rushplayofficial.com/" target="_blank">Layout 10</a></h4>
+                <p>Web</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="<?=base_url('assets/image/sealinterior.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/sealinterior.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://sealinterior.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="https://sealinterior.com/" target="_blank">Layout 11</a></h4>
+                <p>Web</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="<?=base_url('assets/image/sjtpico.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/sjtpico.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://sjtpico.co.th/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="https://sjtpico.co.th/" target="_blank">Layout 12</a></h4>
+                <p>Web</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="<?=base_url('assets/image/shirafurniture.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/shirafurniture.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://shirafurniture.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="https://shirafurniture.com/" target="_blank">Layout 13</a></h4>
                 <p>Web</p>
               </div>
             </div>
