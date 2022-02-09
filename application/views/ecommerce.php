@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Template - Index</title>
+  <title>Template - ecommerce</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -31,12 +31,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
   <!-- fontawesome v.5.10.0  -->
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-  <!-- =======================================================
-  * Template Name: Lumia - v4.5.0
-  * Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body>
@@ -114,32 +109,30 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
           <div class="col-lg-12">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">Landing page</li>
-              <a href="<?=base_url('layout/corporate');?>">Coporate</a>
-              <a href="<?=base_url('layout/ecommerce');?>">Ecommerce</a>
-            
+                <a href="<?=base_url('home/index');?>">Landing page</a>
+                <a href="<?=base_url('layout/corporate');?>">corporate</a>
+                <li data-filter="*" class="filter-active">Ecommerce</li>
+                
               <!-- <li data-filter=".filter-app">Simple</li> -->
               <!-- <li data-filter=".filter-card">Card</li>
               <li data-filter=".filter-web">Web</li> -->
             </ul>
           </div>
         </div>
-
         <div class="row portfolio-container">
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-1.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-1.jpg');?>" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://pantoneinterior.com/" target="_blank" class="link-details" title="More Details">
+                <img src="<?=base_url('assets/image/kaopongfarm.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/kaopongfarm.png');?>" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://kaopongfarm.com/" target="_blank" class="link-details" title="More Details">
                   <i class="fal fa-link"></i>
                 </a>
               </figure>
 
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 1</a></h4> -->
-                <h4><a href="https://pantoneinterior.com/" target="_blank">Layout 1</a></h4>
+                <h4><a href="https://kaopongfarm.com/" target="_blank">Layout 1</a></h4>
                 <p>WEB</p>
               </div>
             </div>
@@ -148,44 +141,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-2.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-2.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://pawaninter.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/mamabellhome.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/mamabellhome.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://mamabellhome.com/home/index/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 2</a></h4> -->
-                <h4><a href="https://pawaninter.com/">Layout 2</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-3.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-3.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://gdesigncurtain.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="https://gdesigncurtain.com/">Layout 3</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-4.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-4.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://saithong99.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="https://saithong99.com/" target="_blank">Layout 4</a></h4>
+                <h4><a href="https://mamabellhome.com/home/index/">Layout 2</a></h4>
                 <p>Web</p>
               </div>
             </div>
@@ -194,92 +157,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-5.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-6.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://ppccnc.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+                <img src="<?=base_url('assets/image/supervj.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/supervj.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://supervj.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="https://ppccnc.com/" target="_blank">Layout 5</a></h4>
+                <!-- <h4><a href="portfolio-details.html">Layout 2</a></h4> -->
+                <h4><a href="https://supervj.com/">Layout 3</a></h4>
                 <p>Web</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-6.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-6.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://refinancejumnumcar.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="https://refinancejumnumcar.com/" target="_blank">Layout 6</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="<?=base_url('./assets/main/img/portfolio/portfolio-7.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/main/img/portfolio/portfolio-7.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://tumpakpert.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="https://tumpakpert.com/" target="_blank">Layout 7</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="<?=base_url('./assets/template1/img/portfolio/portfolio-8.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/template1/img/portfolio/portfolio-8.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://constructionplus99.com/" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info"> 
-                <h4><a href="https://constructionplus99.com/" target="_blank">Layout 8</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="<?=base_url('./assets/template1/img/portfolio/portfolio-9.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/template1/img/portfolio/portfolio-9.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://202design-studio.com/" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="https://202design-studio.com/">Layout9</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="<?=base_url('./assets/template1/img/portfolio/portfolio-10.jpg');?>" class="img-fluid" alt="">
-                <a href="<?=base_url('./assets/template1/img/portfolio/portfolio-10.jpg');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
-                <a href="https://reeya-s.com/" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="https://reeya-s.com/">Layout 10</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
+          
 
         </div>
         <!-- Basic -->

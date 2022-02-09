@@ -28,4 +28,10 @@ class layout extends CI_Controller {
     {
         $this->load->view('corporate');
     }
+    public function ecommerce()
+    {
+        $this->load->view('ecommerce');
+    }
+    
+    
 }
