@@ -109,9 +109,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
           <div class="col-lg-12">
             <ul id="portfolio-flters">
-            <a href="<?=base_url('home/index');?>">Landing page</a>
-                <li data-filter="*" class="filter-active">Coporate</li>
-                
+              <a href="<?=base_url('home/index');?>">Landing page</a>
+              <li data-filter="*" class="filter-active">Coporate</li>
+              <a href="<?=base_url('layout/ecommerce');?>">Ecommerce</a>
               <!-- <li data-filter=".filter-app">Simple</li> -->
               <!-- <li data-filter=".filter-card">Card</li>
               <li data-filter=".filter-web">Web</li> -->
