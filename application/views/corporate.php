@@ -318,6 +318,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="<?=base_url('assets/image/skhome.png');?>" class="img-fluid" alt="">
+                <a href="<?=base_url('assets/image/skhome.png');?>" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="far fa-search-plus"></i></a>
+                <a href="https://xn--42c2dzalh8hcr.com/" target="_blank" class="link-details" title="More Details"><i class="fal fa-link"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href=https://xn--42c2dzalh8hcr.com/" target="_blank">Layout 14</a></h4>
+                <p>Web</p>
+              </div>
+            </div>
+          </div>
+
         </div>
         <!-- Basic -->
         <!-- <div class="row">
