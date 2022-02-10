@@ -133,6 +133,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 1</a></h4> -->
                 <h4><a href="https://kaopongfarm.com/" target="_blank">Layout 1</a></h4>
+                <p>เว็บไซต์ธุรกิจ : </p>
                 <p>WEB</p>
               </div>
             </div>
@@ -149,6 +150,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 2</a></h4> -->
                 <h4><a href="https://mamabellhome.com/home/index/">Layout 2</a></h4>
+                <p>เว็บไซต์ธุรกิจ : คอร์สเบเกอรี่ออนไลน์</p>
                 <p>Web</p>
               </div>
             </div>
@@ -165,6 +167,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 2</a></h4> -->
                 <h4><a href="https://supervj.com/">Layout 3</a></h4>
+                <p>เว็บไซต์ธุรกิจ : </p>
                 <p>Web</p>
               </div>
             </div>

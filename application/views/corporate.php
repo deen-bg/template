@@ -132,6 +132,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 1</a></h4> -->
                 <h4><a href="https://smilehome1991.com/home/?lang=th/" target="_blank">Layout 1</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ก่อสร้าง</p>
                 <p>WEB</p>
               </div>
             </div>
@@ -148,6 +149,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="portfolio-info">
                 <!-- <h4><a href="portfolio-details.html">Layout 2</a></h4> -->
                 <h4><a href="https://teddyautosale.com/">Layout 2</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ขายรถยนต์</p>
                 <p>Web</p>
               </div>
             </div>
@@ -163,6 +165,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://32interiordesign.com/">Layout 3</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ออกแบบตกแต่งภายใน</p>
                 <p>Web</p>
               </div>
             </div>
@@ -178,6 +181,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://generalstest.com/" target="_blank">Layout 4</a></h4>
+                <p>เว็บไซต์ธุรกิจ : จำหน่ายเครื่องมือทดสอบทางไฟฟ้า</p>
                 <p>Web</p>
               </div>
             </div>
@@ -193,6 +197,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://myhome789.com/" target="_blank">Layout 5</a></h4>
+                <p>เว็บไซต์ธุรกิจ : จำหน่ายอุปกรณ์ตกแต่งบ้าน</p>
                 <p>Web</p>
               </div>
             </div>
@@ -208,6 +213,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://mookwatch.com/" target="_blank">Layout 6</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ซื้อ-ขายนาฬิกา</p>
                 <p>Web</p>
               </div>
             </div>
@@ -223,6 +229,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://pantoneinterior.com/" target="_blank">Layout 7</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ออกแบบตกแต่งภายใน</p>
                 <p>Web</p>
               </div>
             </div>
@@ -238,6 +245,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info"> 
                 <h4><a href="https://paullyfurniture.com/" target="_blank">Layout 8</a></h4>
+                <p>เว็บไซต์ธุรกิจ : จำหน่ายของแต่งในบ้าน</p>
                 <p>Web</p>
               </div>
             </div>
@@ -253,6 +261,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://ptlighting.in.th/" target="_blank">Layout9</a></h4>
+                <p>เว็บไซต์ธุรกิจ : จำหน่ายโคมไฟ ออกแบบไลท์ติ้ง</p>
                 <p>Web</p>
               </div>
             </div>
@@ -268,6 +277,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://rushplayofficial.com/" target="_blank">Layout 10</a></h4>
+                <p>เว็บไซต์ธุรกิจ : จำหน่ายสเก็ตบอร์ทไฟฟ้า</p>
                 <p>Web</p>
               </div>
             </div>
@@ -283,6 +293,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://sealinterior.com/" target="_blank">Layout 11</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ก่อสร้าง,ออกแบบตกแต่งภายใน</p>
                 <p>Web</p>
               </div>
             </div>
@@ -298,6 +309,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://sjtpico.co.th/" target="_blank">Layout 12</a></h4>
+                <p>เว็บไซต์ธุรกิจ : สินเชื่อ</p>
                 <p>Web</p>
               </div>
             </div>
@@ -313,6 +325,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href="https://shirafurniture.com/" target="_blank">Layout 13</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ปรึกษาเกี่ยวกับเฟอร์นิเจอร์</p>
                 <p>Web</p>
               </div>
             </div>
@@ -328,6 +341,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="portfolio-info">
                 <h4><a href=https://xn--42c2dzalh8hcr.com/" target="_blank">Layout 14</a></h4>
+                <p>เว็บไซต์ธุรกิจ : ก่อสร้าง</p>
                 <p>Web</p>
               </div>
             </div>
